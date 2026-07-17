@@ -3,7 +3,7 @@ export const personal = {
   shortName: 'Mostak',
   role: 'Frontend Developer & Aspiring MERN Stack Developer',
   location: 'Dhaka, Bangladesh',
-  email: 'mostak.shahriar@example.com',
+  email: 'mostakshahriar6446@gmail.com',
   bio: 'A third-year computer science student focused on building clean, responsive, and user-friendly products with React and JavaScript.',
   availability: 'Open to internships, collaborative projects, and junior frontend opportunities.',
 }
